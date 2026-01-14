@@ -13,7 +13,7 @@ Este artigo é uma compilação do que levo como base em minhas abordagens e for
 
 ---
 
-## 1. Monitoramento x Observabilidade
+### 1. Monitoramento x Observabilidade
 
 De forma direta:
 
@@ -50,19 +50,23 @@ Já a observabilidade é como ter um mecânico com um scanner no banco do carona
 
 ---
 
-## 2. O que compõe a observabilidade?
+### 2. O que compõe a observabilidade?
 
 A observabilidade conecta e interpreta três pilares fundamentais:
 
-- **Logs:** registros de eventos e ações (ex: too many requests, erros de autenticação).
-- **Traces:** rastreamento de requisições ponta a ponta (ex: uma chamada do frontend que ativa 5 microserviços).
-- **Métricas:** indicadores quantitativos de recursos (ex: CPU, memória, latência, falhas de rede).
+<div style="text-align: justify;">
+**Logs:** registros de eventos e ações (ex: too many requests, erros de autenticação).
+
+**Traces:** rastreamento de requisições ponta a ponta (ex: uma chamada do frontend que ativa 5 microserviços).
+
+**Métricas:** indicadores quantitativos de recursos (ex: CPU, memória, latência, falhas de rede).
+</div>
 
 ---
 
-## 3. Ferramentas são o fim, não o começo: Que passos seguir para ter observabilidade em meu negócio?
+### 3. Ferramentas são o fim, não o começo: Que passos seguir para ter observabilidade em meu negócio?
 
-### 1. Cultura orientada a dados
+#### 1. Cultura orientada a dados
 <p style="text-align: justify;">
 Antes de qualquer ferramenta, o mais importante é a mentalidade da equipe. Qualquer sistema coleta dados, mas só um time consciente interpreta, questiona e age sobre eles. Sem isso, você só terá números soltos em dashboards.
 </p>
@@ -76,23 +80,23 @@ Isso já cria um processo a ser seguido. Com essa conversa já podemos buscar SL
 SLA), SLO (objetivo de disponibilidade alinhado ao FinOps), monitorando você tem MTTR(Recorrência dos problemas e tempo de recuperação é uma excelente métrica de negócio para definir estratégias de investimento na arquietura ou equipe), Triggers e até automação para gatilhos(ex.se for o caso de limpeza de partição).
 </p>
 
-### 2. Ferramentas (não comece por elas!)
+#### 2. Ferramentas (não comece por elas!)
 <p style="text-align: justify;">
 Ferramentas são importantes, mas não são o ponto de partida. A escolha ideal depende dos objetivos, da maturidade do time e do orçamento. Ser agnóstico e aberto a combinações é o melhor caminho. Até mesmo para não acabar lidando com migrações e estressar o time com mudanças frequentes de estratégia.
 </p>
 
-### 3. Integração e visualização
+#### 3. Integração e visualização
 <p style="text-align: justify;">
 É aqui que os dados se encontram. Com a integração entre fontes (dados de vários bancos e ferramntas), surgem as métricas de negócio(por exemplo o banco de faturamento e o health check de microsserviços no mesmo dashboard pode te dar insights valiosos), os alertas inteligentes, os insights em tempo real e as automações que de fato reduzem o impacto no usuário final.
 </p>
 
 ---
 
-## 4. Desafios comuns
+### 4. Desafios comuns
 
 - **Complexidade de Infraestruturas:** A integração com sistemas heterogêneos exigem soluções personalizadas.
 
-- **Volume:** A volumetria de dados gerados podem sobrecarregar sistemas de armazenamento e análise. (Quem nunca teve problema com storage atire a primeira pedra kkkkkkk)
+- **Volume:** A volumetria de dados gerados podem sobrecarregar sistemas de armazenamento e análise. (Quem nunca teve problema com storage atire a primeira pedra)
 
 - **Escolha de ferramenta:** Análise criteriosa e combinações de soluções. (Pagar pra ser mais fácil? Spoiler: isso não existe)
 
@@ -100,7 +104,7 @@ Ferramentas são importantes, mas não são o ponto de partida. A escolha ideal 
 
 ---
 
-## 5. Quem faz o quê: DevOps ou SRE? (Observabilidade não é um cargo!)
+### 5. Quem faz o quê: DevOps ou SRE? (Observabilidade não é um cargo!)
 <p style="text-align: justify;">
 Quando falo isso, é porque na prática esses cargos de analista e especialista SEMPRE vão exigir a carga de DevOps ou SRE para conseguir exercer os desafios junto as equipes e ambientes. 
 </p>
@@ -117,12 +121,15 @@ A colaboração entre os dois perfis é o que permite a evolução do ambiente. 
 
 ---
 
-## 6. Níveis de maturidade: Até onde posso chegar com Observabilidade?
+### 6. Níveis de maturidade: Até onde posso chegar com Observabilidade?
 
-- **Nível 1:** Monitorar eventos ao longo do tempo e alertar.
-- **Nível 2:** Coleta de métricas, traces e logs de forma automática e análise de problemas.
-- **Nível 3:** Estabelecimento de correlação entre sintoma e causa dos gargalos.
-- **Nível 4:** Observabilidade + AIOps e automação como solução dos problemas, traçando redes neurais desde a prévia quanto tratando anomalias de dados e comportamento.
+**Nível 1:** Monitorar eventos ao longo do tempo e alertar.
+
+**Nível 2:** Coleta de métricas, traces e logs de forma automática e análise de problemas.
+
+**Nível 3:** Estabelecimento de correlação entre sintoma e causa dos gargalos.
+
+**Nível 4:** Observabilidade + AIOps e automação como solução dos problemas, traçando redes neurais desde a prévia quanto tratando anomalias de dados e comportamento.
 
 ---
 <p style="text-align: justify;">
