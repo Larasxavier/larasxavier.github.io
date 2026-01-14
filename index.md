@@ -2,8 +2,6 @@
 layout: home
 ---
 
-# Artigos
-
 Bem-vinda(o) ao meu repositório de artigos técnicos.
 
 {% for post in site.posts %}
