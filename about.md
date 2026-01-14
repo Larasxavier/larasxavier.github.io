@@ -4,7 +4,7 @@ Sou **Lara Xavier**, DevOps Sênior especializada em **Observabilidade**, com fo
 
 Possuo formação tecnóloga em DevOps, bacharelado em Engenharia Elétrica e duas pós graduações:Machine Learning e Inteligência Artificial como também Projetos e arquiteturas em Cloud Computing.
 
-🏆 **Primeira mulher brasileira reconhecida como Grafana Champion**, título concedido a profissionais que se destacam pela contribuição técnica e comunitária no ecossistema Grafana.
+**Primeira mulher brasileira reconhecida como Grafana Champion**, título concedido a profissionais que se destacam pela contribuição técnica e comunitária no ecossistema Grafana.
 
 Atuo com o desenho e a operação de stacks de observabilidade em **ambientes distribuídos e críticos**, trabalhando com tecnologias como **Stack Grafana, Zabbix, OpenTelemetry, e Prometheus**, sempre conectando tecnologia a **resultados concretos**, como confiabilidade, performance e eficiência operacional.
 
