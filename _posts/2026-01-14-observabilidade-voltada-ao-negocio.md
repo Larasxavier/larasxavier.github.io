@@ -76,7 +76,7 @@ Isso já cria um processo a ser seguido. Com essa conversa já podemos buscar SL
 SLA), SLO (objetivo de disponibilidade alinhado ao FinOps), monitorando você tem MTTR(Recorrência dos problemas e tempo de recuperação é uma excelente métrica de negócio para definir estratégias de investimento na arquietura ou equipe), Triggers e até automação para gatilhos(ex.se for o caso de limpeza de partição).
 </p>
 
-### 2. Ferramentas (não comece por elas!!!)
+### 2. Ferramentas (não comece por elas!)
 <p style="text-align: justify;">
 Ferramentas são importantes, mas não são o ponto de partida. A escolha ideal depende dos objetivos, da maturidade do time e do orçamento. Ser agnóstico e aberto a combinações é o melhor caminho. Até mesmo para não acabar lidando com migrações e estressar o time com mudanças frequentes de estratégia.
 </p>
@@ -91,13 +91,16 @@ Ferramentas são importantes, mas não são o ponto de partida. A escolha ideal 
 ## 4. Desafios comuns
 
 - **Complexidade de Infraestruturas:** A integração com sistemas heterogêneos exigem soluções personalizadas.
+
 - **Volume:** A volumetria de dados gerados podem sobrecarregar sistemas de armazenamento e análise. (Quem nunca teve problema com storage atire a primeira pedra kkkkkkk)
+
 - **Escolha de ferramenta:** Análise criteriosa e combinações de soluções. (Pagar pra ser mais fácil? Spoiler: isso não existe)
+
 - **Habilidades da equipe:** É crucial ter profissionais qualificados (e promover qualificação) para implantar e gerenciar as soluções de observabilidade.
 
 ---
 
-## 5. Quem faz o quê: DevOps ou SRE? (Observabilidade não é um cargo!!!)
+## 5. Quem faz o quê: DevOps ou SRE? (Observabilidade não é um cargo!)
 <p style="text-align: justify;">
 Quando falo isso, é porque na prática esses cargos de analista e especialista SEMPRE vão exigir a carga de DevOps ou SRE para conseguir exercer os desafios junto as equipes e ambientes. 
 </p>
@@ -105,7 +108,9 @@ Quando falo isso, é porque na prática esses cargos de analista e especialista 
 Ambos atuam com observabilidade, mas com focos distintos e complementares:
 
 - **DevOps:** Cultura de automação, entrega contínua, IaC, resposta rápida, métricas de negócio.
+
 - **SRE:** Confiabilidade operacional, escalabilidade, resiliência, mitigação de falhas, experiência do usuário.
+
 <p style="text-align: justify;">
 A colaboração entre os dois perfis é o que permite a evolução do ambiente. Os dois colocam a mão na massa e tem uma forma mais estratégica, o ponto é que um irá ficar mais próximo do usuário (SRE) e o outro da infraestrutura (DevOps).
 </p>
