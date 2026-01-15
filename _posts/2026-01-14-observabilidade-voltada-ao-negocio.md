@@ -67,12 +67,11 @@ A observabilidade conecta e interpreta três pilares fundamentais:
 
 
 **Logs:** registros de eventos e ações (ex: too many requests, erros de autenticação).
-<p style="text-align: justify;">
+
 **Traces:** rastreamento de requisições ponta a ponta (ex: uma chamada do frontend que ativa 5 microserviços).
-</p>
-<p style="text-align: justify;">
+
 **Métricas:** indicadores quantitativos de recursos (ex: CPU, memória, latência, falhas de rede).
-</p>
+
 
 
 ---
