@@ -1,4 +1,3 @@
-## Lara Xavier
 
 DevOps Sênior especializada em **Observabilidade** com foco em transformar métricas, logs e traces em **decisões de negócio**(não apenas gráficos).
 
