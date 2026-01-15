@@ -1,5 +1,5 @@
 ---
-title: "Observabilidade voltada ao negócio"
+title: "Cultura, ferramenta e ação: a tríade da Observabilidade no dia a dia"
 description: "Uma visão prática sobre monitoramento e observabilidade, conectando dados técnicos a decisões estratégicas de negócio."
 date: 2026-01-14 00:00:00 -0300
 categories: [observabilidade, negocio]
