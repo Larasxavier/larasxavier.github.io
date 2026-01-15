@@ -1,4 +1,7 @@
 
+## Who I am? 
+
+### Lara Xavier
 DevOps Sênior especializada em **Observabilidade** com foco em transformar métricas, logs e traces em **decisões de negócio**(não apenas gráficos).
 
 Possuo formação tecnóloga em DevOps, bacharelado em Engenharia Elétrica e duas pós graduações:Machine Learning e Inteligência Artificial como também Projetos e arquiteturas em Cloud Computing.

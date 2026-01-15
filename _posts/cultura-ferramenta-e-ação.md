@@ -1,5 +1,5 @@
 ---
-title: "Cultura, ferramenta e ação: a tríade da Observabilidade no dia a dia"
+title: "Primeiros passos com Observabilidade"
 description: "Uma visão prática sobre monitoramento e observabilidade, conectando dados técnicos a decisões estratégicas de negócio."
 date: 2026-01-14 00:00:00 -0300
 categories: [observabilidade, negocio]
@@ -20,10 +20,10 @@ De forma direta:
 - **Monitoramento** responde o “O quê?” e “Quando?”.
 - **Observabilidade** responde o “Por quê?” e “Como?”.
 
-![Obs voltada ao negócio](/assets/images/2026-01-14-observabilidade-voltada-ao-negocio/1.png)
+![Obs voltada ao negócio](/assets/images/cultura-ferramenta-e-ação/1.png)
 
 
-![Obs voltada ao negócio](/assets/images/2026-01-14-observabilidade-voltada-ao-negocio/2.png)
+![Obs voltada ao negócio](/assets/images/cultura-ferramenta-e-ação/2.png)
 
 
 ### Uma metáfora que explica tudo
@@ -54,7 +54,7 @@ Já a observabilidade é como ter um mecânico com um scanner no banco do carona
 
 **Ação Estratégica:** Trocar o óleo + revisar sistema de resfriamento.
 
-![Obs voltada ao negócio](/assets/images/2026-01-14-observabilidade-voltada-ao-negocio/3.png)
+![Obs voltada ao negócio](/assets/cultura-ferramenta-e-ação/3.png)
 
 
 
