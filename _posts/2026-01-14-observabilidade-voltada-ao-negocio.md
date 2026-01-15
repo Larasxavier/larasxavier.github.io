@@ -20,10 +20,10 @@ De forma direta:
 - **Monitoramento** responde o “O quê?” e “Quando?”.
 - **Observabilidade** responde o “Por quê?” e “Como?”.
 
-![Obs voltada ao negócio](assets/images/2026-01-14-observabilidade-voltada-ao-negocio/1.jpg)
+![Obs voltada ao negócio](/assets/images/2026-01-14-observabilidade-voltada-ao-negocio/1.jpg)
 
 
-![Obs voltada ao negócio](assets/images/2026-01-14-observabilidade-voltada-ao-negocio/2.jpg)
+![Obs voltada ao negócio](/assets/images/2026-01-14-observabilidade-voltada-ao-negocio/2.jpg)
 
 
 ### Uma metáfora que explica tudo
@@ -54,7 +54,7 @@ Já a observabilidade é como ter um mecânico com um scanner no banco do carona
 
 **Ação Estratégica:** Trocar o óleo + revisar sistema de resfriamento.
 
-![Obs voltada ao negócio](assets/images/2026-01-14-observabilidade-voltada-ao-negocio/3.jpg)
+![Obs voltada ao negócio](/assets/images/2026-01-14-observabilidade-voltada-ao-negocio/3.jpg)
 
 
 
