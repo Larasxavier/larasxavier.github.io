@@ -20,6 +20,11 @@ De forma direta:
 - **Monitoramento** responde o “O quê?” e “Quando?”.
 - **Observabilidade** responde o “Por quê?” e “Como?”.
 
+![Observabilidade voltada ao negócio](assets/images/2026-01-14-observabilidade-voltada-ao-negocio/1.png)
+
+![Observabilidade voltada ao negócio](assets/images/2026-01-14-observabilidade-voltada-ao-negocio/2.png)
+
+
 ### Uma metáfora que explica tudo
 
 Imagine que você está em uma viagem de carro. O painel do veículo mostra a temperatura do motor, o nível de combustível, e até sinaliza problemas óbvios — como superaquecimento.
@@ -48,7 +53,11 @@ Já a observabilidade é como ter um mecânico com um scanner no banco do carona
 
 **Ação Estratégica:** Trocar o óleo + revisar sistema de resfriamento.
 
+![Observabilidade voltada ao negócio](assets/images/2026-01-14-observabilidade-voltada-ao-negocio/3.png)
+
+
 ---
+
 
 ### 2. O que compõe a observabilidade?
 
@@ -62,7 +71,9 @@ A observabilidade conecta e interpreta três pilares fundamentais:
 **Métricas:** indicadores quantitativos de recursos (ex: CPU, memória, latência, falhas de rede).
 </div>
 
+
 ---
+
 
 ### 3. Ferramentas são o fim, não o começo: Que passos seguir para ter observabilidade em meu negócio?
 
@@ -90,7 +101,9 @@ Ferramentas são importantes, mas não são o ponto de partida. A escolha ideal 
 É aqui que os dados se encontram. Com a integração entre fontes (dados de vários bancos e ferramntas), surgem as métricas de negócio(por exemplo o banco de faturamento e o health check de microsserviços no mesmo dashboard pode te dar insights valiosos), os alertas inteligentes, os insights em tempo real e as automações que de fato reduzem o impacto no usuário final.
 </p>
 
+
 ---
+
 
 ### 4. Desafios comuns
 
@@ -102,7 +115,9 @@ Ferramentas são importantes, mas não são o ponto de partida. A escolha ideal 
 
 - **Habilidades da equipe:** É crucial ter profissionais qualificados (e promover qualificação) para implantar e gerenciar as soluções de observabilidade.
 
+
 ---
+
 
 ### 5. Quem faz o quê: DevOps ou SRE? (Observabilidade não é um cargo!)
 <p style="text-align: justify;">
@@ -119,7 +134,9 @@ Ambos atuam com observabilidade, mas com focos distintos e complementares:
 A colaboração entre os dois perfis é o que permite a evolução do ambiente. Os dois colocam a mão na massa e tem uma forma mais estratégica, o ponto é que um irá ficar mais próximo do usuário (SRE) e o outro da infraestrutura (DevOps).
 </p>
 
+
 ---
+
 
 ### 6. Níveis de maturidade: Até onde posso chegar com Observabilidade?
 
@@ -132,6 +149,7 @@ A colaboração entre os dois perfis é o que permite a evolução do ambiente. 
 **Nível 4:** Observabilidade + AIOps e automação como solução dos problemas, traçando redes neurais desde a prévia quanto tratando anomalias de dados e comportamento.
 
 ---
+
 <p style="text-align: justify;">
 A observabilidade não é só sobre tecnologia: é sobre compreensão profunda e ação eficaz. Ela transforma dados em contexto, e contexto em decisão. E quanto mais conectada à realidade do negócio, maior o impacto.
 </p>
