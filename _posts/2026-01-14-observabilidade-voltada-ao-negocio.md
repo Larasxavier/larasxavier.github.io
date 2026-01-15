@@ -63,13 +63,14 @@ Já a observabilidade é como ter um mecânico com um scanner no banco do carona
 
 A observabilidade conecta e interpreta três pilares fundamentais:
 
-<div style="text-align: justify;">
+
 **Logs:** registros de eventos e ações (ex: too many requests, erros de autenticação).
-
+<p style="text-align: justify;">
 **Traces:** rastreamento de requisições ponta a ponta (ex: uma chamada do frontend que ativa 5 microserviços).
-
+</p>
+<p style="text-align: justify;">
 **Métricas:** indicadores quantitativos de recursos (ex: CPU, memória, latência, falhas de rede).
-</div>
+</p>
 
 
 ---
