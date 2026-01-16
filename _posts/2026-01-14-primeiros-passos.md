@@ -54,7 +54,7 @@ Já a observabilidade é como ter um mecânico com um scanner no banco do carona
 
 **Ação Estratégica:** Trocar o óleo + revisar sistema de resfriamento.
 
-![Obs voltada ao negócio](/assets/primeiros-passos/3.png)
+![Obs voltada ao negócio](/assets/images/primeiros-passos/3.png)
 
 
 

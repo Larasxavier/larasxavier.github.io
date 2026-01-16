@@ -1,5 +1,6 @@
 
 ## Who I am? 
+![Lara](/assets/images/primeiros-passos/fotolara.jpeg)
 
 DevOps Sênior especializada em **Observabilidade** com foco em transformar métricas, logs e traces em **decisões de negócio**(não apenas gráficos).
 
@@ -15,3 +16,5 @@ Este site funciona como meu **repositório de artigos técnicos**, onde publico 
 
 🔗 **LinkedIn**  
 [https://www.linkedin.com/in/lara-xavier-bb389788/](https://www.linkedin.com/in/lara-xavier-bb389788/)
+
+![talks](/assets/images/primeiros-passos/palestras.png)
