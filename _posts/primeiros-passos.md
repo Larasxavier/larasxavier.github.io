@@ -20,10 +20,10 @@ De forma direta:
 - **Monitoramento** responde o “O quê?” e “Quando?”.
 - **Observabilidade** responde o “Por quê?” e “Como?”.
 
-![Obs voltada ao negócio](/assets/images/cultura-ferramenta-e-ação/1.png)
+![Obs voltada ao negócio](/assets/images/primeiros-passos/1.png)
 
 
-![Obs voltada ao negócio](/assets/images/cultura-ferramenta-e-ação/2.png)
+![Obs voltada ao negócio](/assets/images/primeiros-passos/2.png)
 
 
 ### Uma metáfora que explica tudo
@@ -54,7 +54,7 @@ Já a observabilidade é como ter um mecânico com um scanner no banco do carona
 
 **Ação Estratégica:** Trocar o óleo + revisar sistema de resfriamento.
 
-![Obs voltada ao negócio](/assets/cultura-ferramenta-e-ação/3.png)
+![Obs voltada ao negócio](/assets/primeiros-passos/3.png)
 
 
 
