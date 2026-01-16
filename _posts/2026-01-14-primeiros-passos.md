@@ -11,7 +11,6 @@ Em minha experiência prática com clientes — incluindo treinamentos e palestr
 
 Este artigo é uma compilação do que levo como base em minhas abordagens e formações para tornar esse tema compreensível, aplicável e estratégico.
 
----
 
 ### 1. Monitoramento x Observabilidade
 
@@ -57,10 +56,6 @@ Já a observabilidade é como ter um mecânico com um scanner no banco do carona
 ![Obs voltada ao negócio](/assets/images/primeiros-passos/3.png)
 
 
-
----
-
-
 ### 2. O que compõe a observabilidade?
 
 A observabilidade conecta e interpreta três pilares fundamentais:
@@ -71,10 +66,6 @@ A observabilidade conecta e interpreta três pilares fundamentais:
 **Traces:** rastreamento de requisições ponta a ponta (ex: uma chamada do frontend que ativa 5 microserviços).
 
 **Métricas:** indicadores quantitativos de recursos (ex: CPU, memória, latência, falhas de rede).
-
-
-
----
 
 
 ### 3. Ferramentas são o fim, não o começo: Que passos seguir para ter observabilidade em meu negócio?
@@ -104,9 +95,6 @@ Ferramentas são importantes, mas não são o ponto de partida. A escolha ideal 
 </p>
 
 
----
-
-
 ### 4. Desafios comuns
 
 - **Complexidade de Infraestruturas:** A integração com sistemas heterogêneos exigem soluções personalizadas.
@@ -116,9 +104,6 @@ Ferramentas são importantes, mas não são o ponto de partida. A escolha ideal 
 - **Escolha de ferramenta:** Análise criteriosa e combinações de soluções. (Pagar pra ser mais fácil? Spoiler: isso não existe)
 
 - **Habilidades da equipe:** É crucial ter profissionais qualificados (e promover qualificação) para implantar e gerenciar as soluções de observabilidade.
-
-
----
 
 
 ### 5. Quem faz o quê: DevOps ou SRE? (Observabilidade não é um cargo!)
@@ -137,9 +122,6 @@ A colaboração entre os dois perfis é o que permite a evolução do ambiente. 
 </p>
 
 
----
-
-
 ### 6. Níveis de maturidade: Até onde posso chegar com Observabilidade?
 
 **Nível 1:** Monitorar eventos ao longo do tempo e alertar.
@@ -150,7 +132,6 @@ A colaboração entre os dois perfis é o que permite a evolução do ambiente. 
 
 **Nível 4:** Observabilidade + AIOps e automação como solução dos problemas, traçando redes neurais desde a prévia quanto tratando anomalias de dados e comportamento.
 
----
 
 <p style="text-align: justify;">
 A observabilidade não é só sobre tecnologia: é sobre compreensão profunda e ação eficaz. Ela transforma dados em contexto, e contexto em decisão. E quanto mais conectada à realidade do negócio, maior o impacto.
