@@ -27,29 +27,27 @@ Neste artigo posso te ajudar a fazer e responder essas perguntas.
 
 </div>
 
----
 
 ## Passos iniciais
 
-### **Passo 01**
+#### **Passo 01**
 <div style="text-align: justify;">
 
 Para iniciar a jornada, é preciso levantar os problemas conhecidos e mapear o parque de equipamentos e aplicativos, incluindo linguagens, dependências e integrações existentes.
 
 </div>
 
-### **Passo 02**
+#### **Passo 02**
 <div style="text-align: justify;">
 
 Fazer o uso da técnica dos 5 porquês para mapear os processos de monitoramento e seu impacto, permitindo entender e desenhar a regra de negócio que guiará alertas e dashboards.
 
 </div>
 
----
 
 ## Exemplo prático — aplicando os 5 porquês
 
-### **1. Por que o sistema de autenticação está lento e falhando?**
+##### **1. Por que o sistema de autenticação está lento e falhando?**
 
 <div style="text-align: justify;">
 
@@ -57,7 +55,7 @@ Fazer o uso da técnica dos 5 porquês para mapear os processos de monitoramento
 
 </div>
 
-### **2. Por que o servidor está sobrecarregado?**
+##### **2. Por que o servidor está sobrecarregado?**
 
 <div style="text-align: justify;">
 
@@ -65,7 +63,7 @@ Fazer o uso da técnica dos 5 porquês para mapear os processos de monitoramento
 
 </div>
 
-### **3. Por que houve esse aumento inesperado nas requisições?**
+##### **3. Por que houve esse aumento inesperado nas requisições?**
 
 <div style="text-align: justify;">
 
@@ -73,7 +71,7 @@ Fazer o uso da técnica dos 5 porquês para mapear os processos de monitoramento
 
 </div>
 
-### **4. Por que a equipe de infraestrutura não ajustou a capacidade do servidor?**
+##### **4. Por que a equipe de infraestrutura não ajustou a capacidade do servidor?**
 
 <div style="text-align: justify;">
 
@@ -81,7 +79,7 @@ Fazer o uso da técnica dos 5 porquês para mapear os processos de monitoramento
 
 </div>
 
-### **5. Por que não houve essa comunicação clara?**
+##### **5. Por que não houve essa comunicação clara?**
 
 <div style="text-align: justify;">
 
@@ -89,7 +87,6 @@ Fazer o uso da técnica dos 5 porquês para mapear os processos de monitoramento
 
 </div>
 
----
 
 ## Da análise à prática
 
@@ -99,8 +96,6 @@ Somente após esse mapeamento é que se inicia o hands-on para a decisão de fer
 
 </div>
 
----
-
 ## Impacto do problema
 
 <div style="text-align: justify;">
@@ -108,8 +103,6 @@ Somente após esse mapeamento é que se inicia o hands-on para a decisão de fer
 A lentidão e as falhas no sistema de autenticação prejudicam a experiência do usuário, causando perda de clientes e, consequentemente, redução na receita.
 
 </div>
-
----
 
 ## Regras de negócio
 
@@ -119,15 +112,14 @@ Monitore a latência e as taxas de erros do serviço de autenticação para gara
 
 </div>
 
----
 
 ## Sugestão de alertas
 
-1. **Alerta 01:** Latência média do serviço de autenticação acima de 200 ms por mais de 5 minutos.  
-2. **Alerta 02:** Taxa de erros no serviço de autenticação acima de 1% em 5 minutos consecutivos.  
-3. **Alerta 03:** Aumento súbito no volume de requisições (+30% em 10 minutos) sem ajuste na capacidade.
+**Alerta 01:** Latência média do serviço de autenticação acima de 200 ms por mais de 5 minutos.  
 
----
+**Alerta 02:** Taxa de erros no serviço de autenticação acima de 1% em 5 minutos consecutivos.  
+
+**Alerta 03:** Aumento súbito no volume de requisições (+30% em 10 minutos) sem ajuste na capacidade.
 
 ## Sugestão de painel
 
@@ -137,7 +129,6 @@ Monitore a latência e as taxas de erros do serviço de autenticação para gara
 - Indicadores de capacidade do servidor (CPU, memória, conexões ativas)  
 - Eventos recentes, como lançamentos de funcionalidades e mudanças na infraestrutura  
 
----
 
 ## Tudo é processo: foco no impacto e na regra de negócio
 
@@ -212,34 +203,34 @@ Os 4 sinais de ouro são vistos na saída da solicitação.
 - **Tráfego:** Volume de requisições recebidas ou dados processados.
 - **Saturação:** Nível de utilização dos recursos, afetando o impacto próximo do sistema está de sua capacidade máxima.
 
----
 
-<div style="text-align: justify;">
+<p style="text-align: justify;">
 
 Ao partir de análises técnicas e de direção estruturadas, como os 5 motivos, conseguimos não apenas detectar falhas, mas entender seu impacto real e construir regras de negócios eficazes para alertas e visualizações.
 
-</div>
+</p>
 
-<div style="text-align: justify;">
+
+<p style="text-align: justify;">
 
 Compreender frameworks como USE, RED e os Quatro Sinais de Ouro permite que equipes técnicas e de produto falem a mesma língua: a do impacto no cliente e no faturamento. Isso transforma painéis em ferramentas de decisão, não apenas em painéis de monitoramento.
 
-</div>
+</p>
 
-<div style="text-align: justify;">
+<p style="text-align: justify;">
 
 O caminho que propus — da identificação dos problemas, passando pela demonstração com o negócio, até a criação de alertas e dashboards direcionados — é uma prática base para sair da observabilidade puramente técnica e caminhar rumo à observabilidade orientada ao valor.
 
-</div>
+</p>
 
-<div style="text-align: justify;">
+<p style="text-align: justify;">
 
 Agora que você viu exemplos, frameworks e boas práticas, fica o convite: revise seus indicadores atuais.
 
-</div>
+</p>
 
-<div style="text-align: justify;">
+<p style="text-align: justify;">
 
 Eles estão ajudando você a responder às perguntas certas?
 
-</div>
+</p>
