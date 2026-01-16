@@ -6,13 +6,13 @@ categories: [observabilidade, negocio]
 tags: [observabilidade, monitoramento, sre, devops]
 ---
 
-## Por onde começar?
+### Por onde começar?
 
-<div style="text-align: justify;">
+<p style="text-align: justify;">
 
 É comum ainda encontrar cenários em que equipes focam exclusivamente em análises técnicas, enquanto a jornada até perguntas estratégicas ainda é longa. Questões como impacto no negócio, experiência do usuário e correlação com receita muitas vezes ficam em segundo plano.
 
-</div>
+</p>
 
 <div style="text-align: justify;">
 

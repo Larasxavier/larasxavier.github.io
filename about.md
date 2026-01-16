@@ -1,5 +1,4 @@
 
-## Who I am? 
 ![Lara](/assets/images/primeiros-passos/fotolara.jpeg)
 
 <div style="text-align: justify;">
