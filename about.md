@@ -1,4 +1,9 @@
-#### Lara Xavier
+---
+layout: page
+title: About
+permalink: /about/
+---
+
 
 ![Lara](/assets/images/primeiros-passos/fotolara.jpeg)
 

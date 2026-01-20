@@ -78,7 +78,6 @@ Com esse modelo:
 
 - A alta disponibilidade assegura robustez para ambiente crítico.
 
-<p style="text-align: justify;">
+
 
 **Esse tipo de estrutura é ideal para grandes redes, varejo ou ambientes distribuídos. Se quiser um exemplo funcional ou clonar esse modelo, entre em contato.**
-</p>
