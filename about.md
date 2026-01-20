@@ -1,4 +1,3 @@
-##Who IAM
 ![Lara](/assets/images/primeiros-passos/fotolara.jpeg)
 
 <div style="text-align: justify;">
@@ -36,7 +35,6 @@ Tenho forte atuação na comunidade técnica, com mais de 16 palestras sobre obs
 Este site funciona como meu repositório de artigos técnicos, onde publico conteúdos originais sobre observabilidade, arquitetura, confiabilidade e aprendizados práticos do dia a dia.
 
 </div>
-
 
 🔗 **LinkedIn**  
 [https://www.linkedin.com/in/lara-xavier-bb389788/](https://www.linkedin.com/in/lara-xavier-bb389788/)
