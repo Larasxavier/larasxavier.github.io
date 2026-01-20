@@ -23,13 +23,13 @@ Antes de escolher qualquer ferramenta, é fundamental entender que ela deve ser 
 - Existe uma solução universal?
 - Essas perguntas me levaram a observar com mais atenção o foco principal, recursos e diferenciais de cada opção. A seguir, compartilho um resumo baseado em experiências práticas.
 
-![Obs](/assets/images/ferramentas-obs/foto01.gif)
+![Obs](/assets/images/ferramentas/foto01.gif)
 
 <p style="text-align: justify;">
 E diante desse ponto, nada mais comum que buscar os prós e contras da abordagem de cada uma.
 </p>
 
-![Obs](/assets/images/ferramentas-obs/foto02.gif)
+![Obs](/assets/images/ferramentas/foto02.gif)
 
 ### 1. Zabbix
 **Tipo:** Monitoramento. Métricas (inclusive de APM), logs, traces (com customização manual)
@@ -137,7 +137,7 @@ Ele é focado especialmente em:
 
 **Abaixo criei um mapa mental que fala sobre os benefícios das integrações com o OTel.*
 
-![Obs](/assets/images/ferramentas-obs/foto03.gif)
+![Obs](/assets/images/ferramentas/foto03.gif)
 
 **1.Zabbix**
 
