@@ -5,9 +5,9 @@ date: 2026-01-15 00:00:00 -0300
 categories: [observabilidade, negocio]
 tags: [observabilidade, monitoramento, sre, devops]
 ---
-
+<p style="text-align: justify;">
 A adoção do Grafana como solução de visualização centralizada é uma escolha comum em ambientes corporativos. No entanto, escalar para centenas de unidades (estabelecimento) requer uma abordagem arquitetônica e operacional padronizada. Neste post, detalhamos uma implantação de Grafana com alta disponibilidade, autenticação LDAP e provisionamento automatizado para +200 estabelecimentos, incluindo dashboards e fontes de dados via API.
-
+</p>
 ![Obs](/assets/images/grafana-ha/oks.png)
 
 ## 1. Grafana em alta disponibilidade (HA)
@@ -24,9 +24,9 @@ Para garantir resiliência e continuidade de serviço, a implantação foi reali
 [Usuário] → Load Balancer → [Instância Grafana A/B] → MySQL + NFS Plugins
 
 ## 2. Autenticação LDAP para estabelecimentos
-
+<p style="text-align: justify;">
 O Grafana foi configurado para autenticação contra Active Directory (LDAP), com regras que direcionam o usuário automaticamente para a organização correta baseada no grupo do AD:
-
+</p>
 [[servidores]]
 
 host = “ad.corp.local”
@@ -78,4 +78,7 @@ Com esse modelo:
 
 - A alta disponibilidade assegura robustez para ambiente crítico.
 
+<p style="text-align: justify;">
+
 **Esse tipo de estrutura é ideal para grandes redes, varejo ou ambientes distribuídos. Se quiser um exemplo funcional ou clonar esse modelo, entre em contato.**
+</p>
