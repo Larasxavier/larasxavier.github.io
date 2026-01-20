@@ -124,7 +124,7 @@ Sempre uso como referência o exemplo de Marilya Gutierrez, em que ele é consid
 **Hora da dica!**
 <p style="text-align: justify;">
 
-**O Grafana Beyla é um agente leve de instrumentação automática (eBPF-based) desenvolvido pela Grafana Labs, projetado para coletar métricas e traces de aplicações sem que você precise modificar o código da aplicação.*
+**O Grafana Beyla é um agente leve de instrumentação automática (eBPF-based) desenvolvido pela Grafana Labs, projetado para coletar métricas e traces de aplicações sem que você precise modificar o código da aplicação.**
 </p>
 
 Ele é focado especialmente em:
