@@ -68,12 +68,14 @@ E diante desse ponto, nada mais comum que buscar os prós e contras da abordagem
 **Contras:** Limitado para métricas gerais, custo em escala
 
 ### 8. Splunk
+
 **Tipo:** Observabilidade + Segurança (SIEM/SOAR)
 **Recursos de Segurança:** 
 - Splunk Enterprise Security (SIEM): Coleta e analisa logs para identificar atividades maliciosas.
 - Análise Comportamental Avançada (UBA): Detecta comportamento anômalo de usuários e sistemas.
 - Automação de Resposta (SOAR): Orquestra ações automáticas para responder a incidentes.
 Compliance e Auditoria: Facilita a conformidade com regulamentos como GDPR e PCI-DSS.
+
 **Recursos de Rede:**
 - Monitoramento de Tráfego em Tempo Real: Identifica padrões de tráfego suspeitos.
 - Detecção de Ataques DDoS com análise de anomalias.
@@ -98,12 +100,17 @@ Compliance e Auditoria: Facilita a conformidade com regulamentos como GDPR e PCI
 - Detecção de dispositivos com problemas de desempenho e configuração.
 - Dashboards gráficos e alertas proativos para tráfego anormal.
 - Monitoramento de ambientes híbridos (on-premises e cloud).
+
 **Prós:** Visão clara de redes híbridas e latência
+
 **Contras:** Custo elevado de licenciamento
 
 ### 11. Nagios
+
 **Tipo:** Monitoramento básico
+
 **Prós:** Open-source e confiável
+
 **Contras:** Manual, sem observabilidade moderna
 
 <p style="text-align: justify;">
@@ -124,7 +131,8 @@ Sempre uso como referência o exemplo de Marilya Gutierrez, em que ele é consid
 **Hora da dica!**
 <p style="text-align: justify;">
 
-**O Grafana Beyla é um agente leve de instrumentação automática (eBPF-based) desenvolvido pela Grafana Labs, projetado para coletar métricas e traces de aplicações sem que você precise modificar o código da aplicação.**
+*O Grafana Beyla é um agente leve de instrumentação automática (eBPF-based) desenvolvido pela Grafana Labs, projetado para coletar métricas e traces de aplicações sem que você precise modificar o código da aplicação.*
+
 </p>
 
 Ele é focado especialmente em:

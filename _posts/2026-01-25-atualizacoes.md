@@ -30,9 +30,12 @@ Exemplo:
 
 ```https://api.github.com/repos/<org>/<repo>/releases/latest```
 
+
+
 Configurar o **preprocessing → JavaScript** para extrair o campo da versão:
 
 ```var data = JSON.parse(value);
+
 return data.tag_name;
 ```
 
