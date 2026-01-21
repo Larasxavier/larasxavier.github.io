@@ -43,20 +43,32 @@ Criar uma trigger para comparar com a versão esperada (macro ou valor anterior)
 Para cenários com várias ferramentas, montei um script que coleta versões e deixa o Zabbix fazer o resto.
 
 Exemplo (Python):
-```#!/usr/bin/env python3
-import requests, json
+### Exemplo (Python)
+
+```python
+#!/usr/bin/env python3
+
+import requests
+import json
+
 repos = {
     "zabbix": "zabbix/zabbix",
     "grafana": "grafana/grafana",
     "prometheus": "prometheus/prometheus"
 }
+
 result = {"data": []}
+
 for name, repo in repos.items():
     url = f"https://api.github.com/repos/{repo}/releases/latest"
     version = requests.get(url).json()["tag_name"]
-    result["data"].append({"{#TOOL}": name, "{#VERSION}": version})
+
+    result["data"].append({
+        "{#TOOL}": name,
+        "{#VERSION}": version
+    })
+
 print(json.dumps(result))
-```
 
 #### No Zabbix:
 Criar um item de discovery que executa o script.
