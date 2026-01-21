@@ -32,6 +32,7 @@ E diante desse ponto, nada mais comum que buscar os prós e contras da abordagem
 ![Obs](/assets/images/ferramentas/foto02.gif)
 
 ### 1. Zabbix
+
 **Tipo:** Monitoramento. Métricas (inclusive de APM), logs, traces (com customização manual)
 **Melhor uso:** Monitoramento de infraestrutura. Escopo aberto para possibilidade de monitorar qualquer coisa e uso de descobertas.
 **Prós:** Open-source, altamente customizável
@@ -81,7 +82,9 @@ Compliance e Auditoria: Facilita a conformidade com regulamentos como GDPR e PCI
 - Detecção de Ataques DDoS com análise de anomalias.
 - Integração com Firewalls e IDS/IPS como Palo Alto, Cisco e Fortinet.
 - Análise de Fluxos de Rede com integração a NetFlow e outras fontes.
+
 **Prós:** Visão empresarial, segurança e redes
+
 **Contras:** Custo alto, conectores proprietários
 
 ### 9. Dynatrace
