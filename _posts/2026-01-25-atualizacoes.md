@@ -45,7 +45,6 @@ Criar uma trigger para comparar com a versão esperada (macro ou valor anterior)
 
 Para cenários com várias ferramentas, montei um script que coleta versões e deixa o Zabbix fazer o resto.
 
-Exemplo (Python):
 ### Exemplo (Python)
 
 ```python
@@ -72,6 +71,7 @@ for name, repo in repos.items():
     })
 
 print(json.dumps(result))
+```
 
 #### No Zabbix:
 Criar um item de discovery que executa o script.
