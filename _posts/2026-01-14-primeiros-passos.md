@@ -6,7 +6,7 @@ categories: [observabilidade, negocio]
 tags: [observabilidade, monitoramento, sre, devops]
 ---
 <p style="text-align: justify;">
-Em minha experiência prática com clientes — incluindo treinamentos e palestras — percebo uma demanda crescente e consistente por clareza sobre monitoramento e observabilidade. Essa necessidade atravessa todos os níveis organizacionais: das equipes técnicas (Suporte, SREs, DevOps, Engenheiros de Plataforma) às lideranças (Coordenadores, Gerentes e Superintendentes).
+Em minha experiência prática com clientes, incluindo treinamentos e palestras, percebo uma demanda crescente e consistente por clareza sobre monitoramento e observabilidade. Essa necessidade atravessa todos os níveis organizacionais: das equipes técnicas (Suporte, SREs, DevOps, Engenheiros de Plataforma) às lideranças (Coordenadores, Gerentes e Superintendentes).
 </p>
 
 Este artigo é uma compilação do que levo como base em minhas abordagens e formações para tornar esse tema compreensível, aplicável e estratégico.
@@ -27,7 +27,7 @@ De forma direta:
 
 ### Uma metáfora que explica tudo
 
-Imagine que você está em uma viagem de carro. O painel do veículo mostra a temperatura do motor, o nível de combustível, e até sinaliza problemas óbvios — como superaquecimento.
+Imagine que você está em uma viagem de carro. O painel do veículo mostra a temperatura do motor, o nível de combustível, e até sinaliza problemas óbvios como superaquecimento.
 
 Mas ele não te explica por que o motor esquentou.
 
