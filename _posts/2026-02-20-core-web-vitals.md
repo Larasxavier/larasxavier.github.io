@@ -14,15 +14,15 @@ Os Core Web Vitals são métricas do Google assim como os Golden Signals, RED e 
 ## Quais são as métricas?
 <p style="text-align: justify;">
 
-- **Maior exibição de conteúdo (LCP):** avalia o desempenho do carregamento. Para oferecer uma boa experiência ao usuário, os sites devem fazer com que a LCP ocorra nos primeiros segundos do início do carregamento da página.
+-**Maior exibição de conteúdo (LCP):**avalia o desempenho do carregamento. Para oferecer uma boa experiência ao usuário, os sites devem fazer com que a LCP ocorra nos primeiros segundos do início do carregamento da página.
 </p>
 <p style="text-align: justify;">
 
-- **Interaction to Next Paint (INP):** mede a capacidade de resposta. Para oferecer uma boa experiência ao usuário, busque uma INP de menos de x milissegundos.
+-**Interaction to Next Paint (INP):**mede a capacidade de resposta. Para oferecer uma boa experiência ao usuário, busque uma INP de menos de x milissegundos.
 </p>
 <p style="text-align: justify;">
 
-- **Cumulative Layout Shift (CLS):** avalia a estabilidade visual. Para oferecer uma boa experiência ao usuário, tenha uma pontuação de CLS inferior a x.
+-**Cumulative Layout Shift (CLS):**avalia a estabilidade visual. Para oferecer uma boa experiência ao usuário, tenha uma pontuação de CLS inferior a x.
 </p>
 
 ![Obs](/assets/images/core-web/cwv.png)
@@ -65,9 +65,9 @@ Eu utilizo muito o k6 para teste de carga e validação das minhas stacks de obs
 
 ![Obs](/assets/images/core-web/httpagent.png)
 
-Fonte: Zabbix Documentation — HTTP agent items
+Fonte: Zabbix Documentation: HTTP agent items
 
-Zabbix Documentation — HTTP agent item
+Zabbix Documentation: HTTP agent item
 https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/http
 
 
@@ -75,21 +75,21 @@ https://www.zabbix.com/documentation/current/en/manual/config/items/itemtypes/ht
 
 ![Obs](/assets/images/core-web/scenario_details.png)
 
-Fonte: Zabbix Documentation — Web monitoring scenarios
+Fonte: Zabbix Documentation: Web monitoring scenarios
 
-Zabbix Documentation — Web monitoring
+Zabbix Documentation: Web monitoring
 https://www.zabbix.com/documentation/current/en/manual/web_monitoring
 
 ### Item Browser
 
 ![Obs](/assets/images/core-web/browser_item.png)
 
-Fonte: Zabbix Documentation — Browser monitoring (Chromium)
+Fonte: Zabbix Documentation: Browser monitoring (Chromium)
 
-Zabbix Documentation — Browser monitoring
+Zabbix Documentation: Browser monitoring
 https://www.zabbix.com/documentation/current/en/manual/web_monitoring/browser_monitoring
 
-Zabbix Blog — Browser monitoring explained
+Zabbix Blog: Browser monitoring explained
 https://blog.zabbix.com/browser-monitoring-in-zabbix/23755/
 
 
@@ -102,20 +102,20 @@ Tem um vídeo do Bernardo Lankheet que pode ajudar melhor no aprofundamento de u
 
 ![Obs](/assets/images/core-web/k6-test.png)
 
-Fonte: Grafana k6 — Browser testing documentation
+Fonte: Grafana k6: Browser testing documentation
 
 ![Obs](/assets/images/core-web/k6-perf.png)
 
-Fonte: Grafana k6 — Browser testing documentation
+Fonte: Grafana k6: Browser testing documentation
 
 ![Obs](/assets/images/core-web/k6-trace.png)
 
-Fonte: Grafana k6 — Browser testing documentation
+Fonte: Grafana k6: Browser testing documentation
 
-Grafana k6 Documentation — Browser testing
+Grafana k6 Documentation: Browser testing
 https://grafana.com/docs/k6/latest/using-k6/browser-testing/
 
-Grafana Blog — Introducing k6 Browser
+Grafana Blog: Introducing k6 Browser
 https://grafana.com/blog/2023/02/02/introducing-k6-browser/
 
 
@@ -177,8 +177,6 @@ onLCP(sendToAnalytics);
 Link artigo (A velocidade do site ainda está impactando sua taxa de conversão.): https://portent.com/blog/analytics/research-site-speed-hurting-everyones-revenue.htm
 Link artigo (Fluxos de trabalho das Principais métricas da Web com ferramentas do Google): https://web.dev/articles/vitals-tools?hl=pt-br
 Link artigo (Entendendo e usando as Core Web Vitals): https://akshayranganath.github.io/Understanding-And-Using-Core-Web-Vitals/
-
-
 
 
 E aí, já conhecia esse outro lado? Devs e Observabilidade se unindo mais uma vez! hahaha
