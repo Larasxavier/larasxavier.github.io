@@ -12,18 +12,12 @@ Os Core Web Vitals são métricas do Google assim como os Golden Signals, RED e 
 </p>
 
 ## Quais são as métricas?
-<p style="text-align: justify;">
 
--**Maior exibição de conteúdo (LCP):**avalia o desempenho do carregamento. Para oferecer uma boa experiência ao usuário, os sites devem fazer com que a LCP ocorra nos primeiros segundos do início do carregamento da página.
-</p>
-<p style="text-align: justify;">
+- **Maior exibição de conteúdo (LCP):**avalia o desempenho do carregamento. Para oferecer uma boa experiência ao usuário, os sites devem fazer com que a LCP ocorra nos primeiros segundos do início do carregamento da página.
 
--**Interaction to Next Paint (INP):**mede a capacidade de resposta. Para oferecer uma boa experiência ao usuário, busque uma INP de menos de x milissegundos.
-</p>
-<p style="text-align: justify;">
+- **Interaction to Next Paint (INP):**mede a capacidade de resposta. Para oferecer uma boa experiência ao usuário, busque uma INP de menos de x milissegundos.
 
--**Cumulative Layout Shift (CLS):**avalia a estabilidade visual. Para oferecer uma boa experiência ao usuário, tenha uma pontuação de CLS inferior a x.
-</p>
+- **Cumulative Layout Shift (CLS):**avalia a estabilidade visual. Para oferecer uma boa experiência ao usuário, tenha uma pontuação de CLS inferior a x.
 
 ![Obs](/assets/images/core-web/cwv.png)
 
