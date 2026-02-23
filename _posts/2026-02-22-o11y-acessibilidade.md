@@ -1,7 +1,7 @@
 ---
 title: "Observabilidade com Acessibilidade"
 description: "Uma visão prática sobre monitoramento e observabilidade, conectando dados técnicos a decisões estratégicas de negócio."
-date: 2026-01-15 00:00:00 -0300
+date: 2026-02-22 00:00:00 -0300
 categories: [observabilidade, negocio]
 tags: [observabilidade, monitoramento, sre, devops]
 ---
