@@ -1,5 +1,5 @@
 ---
-title: "Saindo do mundo Zabbix para Opentelemetry:O que preciso saber"
+title: "Saindo do mundo Zabbix para Opentelemetry: O que preciso saber?"
 description: "Uma visão prática sobre monitoramento e observabilidade, conectando dados técnicos a decisões estratégicas de negócio."
 date: 2026-03-29 00:00:00 -0300
 categories: [observabilidade, negocio]
@@ -18,7 +18,7 @@ Porque todo mundo está falando de opentelemetry agora? É importante que você 
 Quando falamos de Zabbix, temos uma estrutura de server, proxy, agent e banco de dados com coletas baseadas em polling criando itens (informações), triggers (regras de alerta) que fazem parte de templates prontos ou customizáveis (modelos prontos de organização dos dados coletados). Baseado em um modelo mental de perguntar constantemente se algo está bem ou mal. Logo, de forma bruta ele acaba sendo fundamental para estado, capacidade e infraestrutura.
 </p>
 
-**Quando o usuário do Zabbix começa a sentir dor?** (lá ele)
+**Quando o usuário do Zabbix começa a sentir dor?** 
 
 Dificuldade para:
 
