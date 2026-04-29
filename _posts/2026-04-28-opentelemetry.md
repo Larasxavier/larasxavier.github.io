@@ -124,7 +124,7 @@ span:
           from_attributes: ["resource.service.name"]
 
 # Renomear spans
- span:
+span:
         - 'attributes["container.name"] == "app_container_1"'
         - 'resource.attributes["host.name"] == "localhost"'
         - 'name == "app_3"'
