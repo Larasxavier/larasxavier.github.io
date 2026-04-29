@@ -40,7 +40,7 @@ tags: [observabilidade, monitoramento, sre, devops]
 Ao final da escrita me dei conta que fiz um tcc, por isso o sumário hahaha
 
 O mundo da telemetria te oferece muitas possibilidades de coleta e transformação de dados. Antes de usar e listar pré-requisitos para começar a brincar nas instrumentações é importante saber a estrutura e objetivo do framework.
-Já deixo aqui meu profundo agradecimento ao **Juraci Paixão Kröhling, Danilo Háwila, Marilya Gutierrez e Igor Estevam Jasinski**. *São minhas referências de aprendizado contínuo com telemetria e indico totalmente para quem está começando.*
+Já deixo aqui meu profundo agradecimento ao **Juraci Paixão Kröhling, Danilo Háwila e Marilya Gutierrez**. *São minhas referências de aprendizado contínuo com telemetria e indico totalmente para quem está começando.*
 
 Outra sugestão, caso se interessem é o livro **Learning OpenTelemetry - Setting Up and Operating a Modern Observability System**, foi escrito pelos co-fundadores Ted Young e Austin Parker do opentelemetry e tem uma linguagem muito bacana para explicar como os desafios foram pensados para que entenda como utilizar em aplicações modernas. Inclusive, irei apresentar insights referenciando-o nesse artigo.
 
