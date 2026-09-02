@@ -6,10 +6,6 @@ categories: observabilidade negocio
 description: "A sequência prática do artigo de OpenTelemetry: como o Grafana Alloy reaproveita tudo que você já aprendeu de Collector e como o Beyla gera telemetria sem tocar no código, com eBPF."
 ---
 
-[Lara Xavier](https://larasxavier.github.io/about/)
-
-# Beyla e Alloy: instrumentação sem código e o Collector que virou distribuição
-
 No [artigo anterior de OpenTelemetry](https://larasxavier.github.io/observabilidade/negocio/2026/04/28/opentelemetry.html) a gente montou a base: receivers, processors, exporters, connectors, tail sampling, PII e os 10 mandamentos da cardinalidade. Se você não leu, leia primeiro, porque aqui eu vou puxar aqueles conceitos o tempo todo. É neles que Beyla e Alloy se apoiam.
 
 A pergunta que fecha o ciclo do artigo passado é: *"beleza, entendi o Collector... mas e quando eu não posso mexer no código da aplicação? E como eu opero isso em escala sem virar zelador de YAML?"* É aqui que entram nossos dois convidados.
